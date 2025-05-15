@@ -33,7 +33,7 @@ Development has not started yet. This repository will serve as the foundation fo
 
 ## 📌 Roadmap
 
-- [ ] Initialize Tauri project with React
+- [ ] ~Initialize Tauri project with React~
 - [ ] Design UI components
 - [ ] Set up cloud backend
 - [ ] File and application management
