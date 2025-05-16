@@ -34,7 +34,7 @@ Development has not started yet. This repository will serve as the foundation fo
 ## 📌 Roadmap
 
 - [ ] ~Initialize Tauri project with React~
-- [ ] Design UI components
+- [ ] Design UI components (~30% 16/05/2025)
 - [ ] Set up cloud backend
 - [ ] File and application management
 - [ ] Multi-device synchronization features
